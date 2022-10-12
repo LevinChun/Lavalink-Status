@@ -1,5 +1,5 @@
 module.exports = {
-  token: "Bot Token",
+  token: "Here Token",
   channel: "ChannelId",
 
   nodes: [
